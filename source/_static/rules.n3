@@ -1,0 +1,29 @@
+@prefix s: <http://example.org/my-schema#>.
+@prefix log: <http://www.w3.org/2000/10/swap/log#>.
+
+# s:inverseOf
+{
+    ?p1 s:inverseOf ?p2.
+    ?s ?p1 ?o.
+} => {
+    ?o ?p2 ?s.
+} .
+
+# s:subPropertyOf
+{
+    ?p1 s:subPropertyOf ?p2.
+    ?s ?p1 ?o.
+} => {
+    ?s ?p2 ?o.
+} .
+
+# s:composedOf
+{
+    ?p1 s:composedOf ( ?p2 ?p3 ).
+    ?x ?p2 ?y.
+    ?y ?p3 ?z.
+    ?x log:notEqualTo ?z .
+} => {
+    ?x ?p1 ?z
+} .
+

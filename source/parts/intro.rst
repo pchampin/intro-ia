@@ -2,6 +2,8 @@
  Introduction
 ==============
 
-.. todo::
+Merci à `Amélie Cordier`_ pour `ses transparents`_.
 
-   en travaux
+
+.. _Amélie Cordier: https://liris.cnrs.fr/amelie.cordier/
+.. _ses transparents: https://liris.cnrs.fr/amelie.cordier/wiki/doku.php?id=ens:ia_aut2015
