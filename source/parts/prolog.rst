@@ -32,7 +32,7 @@ Notions de bases
 
 * exemples plus sophistiqué :
 
-  + `Sudoku <_static/sudoku.pl>`_
+  + `Sudoku <../_static/sudoku.pl>`_
   + Dans `l'application de recherche de chemin <http://aispace.org/search/>`_,
     menu Edit > View Prolog Code
 

@@ -26,8 +26,8 @@ Plan de la première séance
     - A*
   + exemples:
     
-    - `grid1.xml <./_static/grid1.xml>`_
-    - `labyrinthe.xml <./_static/labyrinthe.xml>`_
+    - `grid1.xml <../_static/grid1.xml>`_
+    - `labyrinthe.xml <../_static/labyrinthe.xml>`_
       (cas ou l'heuristique est ineffective, voire nocive)
 
 * Autre démo interactive: https://qiao.github.io/PathFinding.js/visual/
@@ -40,11 +40,11 @@ Plan de la deuxième séance
   (pas nécessairement "géographique")
 
   - `problème du loup, de la chèvre et du chou`__:
-    `f123.xml <./_static/f123.xml>`_
-    (`spoiler <./_static/f123-readable.xml>`_)
+    `f123.xml <../_static/f123.xml>`_
+    (`spoiler <../_static/f123-readable.xml>`_)
 
   - `tours de Hanoi`__:
-    `hanoi.xml <./_static/f123.xml>`_
+    `hanoi.xml <../_static/f123.xml>`_
     (Wikipedia `fait allusion`__ à l'espace d'états de ce problème)
     
 .. __: https://en.wikipedia.org/wiki/Fox,_goose_and_bag_of_beans_puzzle

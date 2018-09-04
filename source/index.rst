@@ -78,7 +78,7 @@ Calendrier 2017-18
      - SF
      - À DÉTERMINER
    
-   * - Lundi 23 sept.
+   * - Lundi 23 oct.
      - 16h-18h
      - \*
      - Examen
