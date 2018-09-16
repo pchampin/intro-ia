@@ -8,82 +8,82 @@ Introduction à l'IA
 
 .. toctree::
    :glob:
-   :hidden:   
+   :hidden:
 
    parts/*
 
-Calendrier 2017-18
+Calendrier 2018-19
 ------------------
 
 .. list-table::
-   :widths: 25 15 10 50
-   
-   * - Mardi 5 sept.
-     - 08h-10h
+   :widths: 28 15 10 50
+
+   * - Lundi 3 sept.
+     - 10h-12h
      - PAC
      - `parts/intro`:doc:
 
-   * - Mardi 5 sept.
-     - 16h-18h
-     - PAC
-     - `parts/intro`:doc: (suite)
-   
-   * - Lundi 11 sept.
-     - 16h-18h
+   * - Mercredi 5 sept.
+     - 14h-16h
      - PAC
      - `parts/chemins`:doc:
-   
-   * - Mardi 12 sept.
-     - 08h-10h
+
+   * - Lundi 10 sept.
+     - 10h-12h
      - PAC
      - `parts/chemins`:doc: (suite)
-   
-   * - Lundi 18 sept.
-     - 16h-18h
+
+   * - Mercredi 12 sept.
+     - 14h-16h
      - PAC
      - `parts/prolog`:doc:
-   
-   * - Lundi 25 sept.
-     - 16h-18h
+
+   * - Lundi 17 sept.
+     - 10h-12h
+     - PAC
+     - `parts/prolog`:doc: (suite)
+
+   * - Mercredi 19 sept.
+     - 14h-16h
      - PAC
      - `parts/websem`:doc:
-   
-   * - Mardi 26 sept.
-     - 08h-10h
+
+   * - Lundi 24 sept.
+     - 10h-12h
      - PAC
      - `parts/websem`:doc: (suite)
-   
-   * - Lundi 2 oct.
-     - 16h-18h
-     - SF
-     - À DÉTERMINER
-   
-   * - Lundi 9 oct.
-     - 16h-18h
-     - SF
-     - À DÉTERMINER
-   
-   * - Mardi 10 oct.
+
+   * - Mercredi 26 sept.
      - 14h-16h
      - SF
      - À DÉTERMINER
-   
-   * - Lundi 16 oct.
-     - 16h-18h
-     - SF
-     - À DÉTERMINER
-   
-   * - Lundi 23 oct.
+
+   * - Lundi 1er oct.
      - 10h-12h
      - SF
      - À DÉTERMINER
-   
-   * - Lundi 23 oct.
-     - 16h-18h
+
+   * - Lundi 8 oct.
+     - 10h-12h
+     - SF
+     - À DÉTERMINER
+
+   * - Lundi 15 oct.
+     - 10h-12h
+     - SF
+     - À DÉTERMINER
+
+   * - Mercredi 17 oct.
+     - 14h-16h
+     - SF
+     - À DÉTERMINER
+
+   * - Lundi 22 oct.
+     - 10h-12h
      - \*
      - Examen
- 
-.. 
+
+..
   Indices and tables
   ==================
 
