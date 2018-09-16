@@ -41,13 +41,17 @@ Notions de bases
 Arbre généalogique
 ==================
 
-1. En utilisant exclusivement deux prédicats binaires ``pere`` et ``mere``,
+1. En utilisant exclusivement deux prédicats unaires ``homme`` et ``femme``,
+   et un prédicat binaire ``parent``,
    représentez l'arbre généalogique des Simpsons, d'après la figure ci-dessous.
 
 Pour démarrer::
 
-  pere(bart,homer).
-  mere(bart,marge).
+  homme(bart).
+  homme(homer).
+  femme(marge).
+  parent(bart,homer).
+  parent(bart,marge).
 
 .. warning::
 
@@ -55,13 +59,22 @@ Pour démarrer::
    Prolog les considérerait comme des variables...
 
 2. Ajoutez ensuite des règles permettant de déduire d'autres prédicats
-   (tels que ``parent``, ``frereOuSoeur``...),
+   (tels que ``père``, ``frèreOuSoeur``...),
    afin d'arriver à déduire : ``cousin(ling, bart)``.
 
 Pour démarrer::
 
-  parent(X,Y) :- pere(X,Y).
-  parent(X,Y) :- mere(X,Y).
+  père(X,Y) :- parent(X,Y), homme(Y).
+
+3. Ajoutez enfin des règles permettant de déduire un prédicat binaire `ancêtre`.
+   Par exemple, pour `bart`, les faits suivants doivent être déduits ::
+
+     ancêtre(bart, homer).
+     ancêtre(bart, marge).
+     ancêtre(bart, abraham).
+     ancêtre(bart, mona).
+     ancêtre(bart, clancy).
+     ancêtre(bart, jackie).
 
 
 .. figure:: ../_static/simpsons.*
