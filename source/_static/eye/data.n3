@@ -1,11 +1,11 @@
-@prefix : <http://example.org/family#> .
+@prefix s: <http://example.org/simpsons#> .
+@prefix f: <http://example.org/family#> .
 
-<#bart> :name "Bart Simpson".
-<#bart> a :Man .
-<#bart> :parent <#marge> .
-<#bart> :parent <#homer> .
+s:Bart a f:Man .
+s:Bart f:parent s:Marge.
+s:Bart f:parent s:Homer.
 
-<#marge> a :Woman .
+s:Marge a f:Woman .
 
 # to be continued...
-# (only using :parent, :Man and :Woman)
+# (only using f:parent, f:Man and f:Woman)
