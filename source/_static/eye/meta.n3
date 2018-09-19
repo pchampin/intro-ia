@@ -1,0 +1,28 @@
+@prefix mv: <http://example.org/meta-vocabulary#>.
+@prefix log: <http://www.w3.org/2000/10/swap/log#>.
+
+# mv:inverseOf
+{
+    ?p1 mv:inverseOf ?p2.
+    ?s ?p1 ?o.
+} => {
+    ?o ?p2 ?s.
+} .
+
+# mv:subPropertyOf
+{
+    ?p1 mv:subPropertyOf ?p2.
+    ?s ?p1 ?o.
+} => {
+    ?s ?p2 ?o.
+} .
+
+# mv:composedOf
+{
+    ?p1 mv:composedOf ( ?p2 ?p3 ).
+    ?x ?p2 ?y.
+    ?y ?p3 ?z.
+    ?x log:notEqualTo ?z .
+} => {
+    ?x ?p1 ?z
+} .

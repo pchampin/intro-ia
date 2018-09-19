@@ -1,0 +1,7 @@
+@prefix : <http://example.org/family#> .
+@prefix mv: <http://example.org/meta-vocabulary#>.
+@prefix log: <http://www.w3.org/2000/10/swap/log#>.
+
+:parent mv:inverseOf :child .
+
+# to be continued...

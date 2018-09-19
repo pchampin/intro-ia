@@ -1,0 +1,4 @@
+@prefix : <http://example.org/family#> .
+
+{ ?a :cousin ?c. } => { ?a :cousin ?c. }.
+{ ?a :name "Bart Simpson". ?a :ancestor ?c. } => { ?a :ancestor ?c. }.

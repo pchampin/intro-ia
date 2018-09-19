@@ -6,9 +6,9 @@ Prise en main
 =============
 
 * Effectuez le tutoriel N3: http://n3.restdesc.org/
-* puis reproduisez l'exercice `exo_simpsons`:ref:,
-  en utilisant *uniquement* les règles fournies dans
-  `ce fichier <../_static/rules.n3>`_.
+* puis `reprenons l'arbre généalogique des Simpsons`__.
+
+__ ../_static/eye/simpsons.html
 
 
 Notions importantes

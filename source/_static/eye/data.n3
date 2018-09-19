@@ -1,0 +1,11 @@
+@prefix : <http://example.org/family#> .
+
+<#bart> :name "Bart Simpson".
+<#bart> a :Man .
+<#bart> :parent <#marge> .
+<#bart> :parent <#homer> .
+
+<#marge> a :Woman .
+
+# to be continued...
+# (only using :parent, :Man and :Woman)
