@@ -1,11 +1,18 @@
 <!doctype html>
 <meta charset="utf8">
 <title>Web Sémantique - Introduction à l'IA</title>
-<link href=http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css media=all rel=stylesheet type=text/css>
+<link href=https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css media=all rel=stylesheet type=text/css>
 <link href=http://n3.restdesc.org/style.css media=screen rel=stylesheet type=text/css>
 
 
 <header>Introduction à l'IA</header>
+<article id="mixed-content-warning" style="display: none; background-color: lightcoral; border: thick solid red; padding: 1em;">
+    Cette page ne s'affiche pas correctement. Vous devez autoriser les contenus mixtes.
+    <ul>
+        <li><a href="https://support.mozilla.org/en-US/kb/mixed-content-blocking-firefox#w_unblock-mixed-content">Instructions pour Firefox</a></li>
+        <li><a href="https://pearsonnacommunity.force.com/support/s/article/How-to-display-mixed-content-with-Google-Chrome-Internet-Explorer-or-Firefox-1408394589290">Instructions pour Chrome et IE</a></li>
+    </ul>
+</article>
 <article>
     <h1>Arbre généalogique</h1>
     <p>Ré-implémentez en N3 l'arbre généalogique des Simpsons,
@@ -25,7 +32,11 @@
         <li><a href="../../parts/websem.html">Retour au cours</a>
     </ul>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
 <script src="http://n3.restdesc.org/scripts.js"></script>
-
+<script>
+    if (!document.querySelector("ul.displaymode")) {
+        document.getElementById("mixed-content-warning").style.display = "block";
+    }
+</script>
