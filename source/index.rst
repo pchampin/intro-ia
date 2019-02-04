@@ -18,68 +18,48 @@ Calendrier 2018-19
 .. list-table::
    :widths: 28 15 10 50
 
-   * - Lundi 3 sept.
-     - 10h-12h
+   * - Lundi 4 fevr.
+     - 14h-16h
      - PAC
      - `parts/intro`:doc:
 
-   * - Mercredi 5 sept.
-     - 14h-16h
+   * - Lundi 4 févr.
+     - 16h-18h
      - PAC
      - `parts/chemins`:doc:
 
-   * - Lundi 10 sept.
+   * - Mercredi 6 févr.
      - 10h-12h
      - PAC
      - `parts/chemins`:doc: (suite)
 
-   * - Mercredi 12 sept.
-     - 14h-16h
+   * - Lundi 18 févr.
+     - 14h-18h
      - PAC
      - `parts/prolog`:doc:
 
-   * - Lundi 17 sept.
-     - 10h-12h
-     - PAC
-     - `parts/prolog`:doc: (suite)
-
-   * - Mercredi 19 sept.
-     - 14h-16h
+   * - Jeudi 21 févr.
+     - 8h-12h
      - PAC
      - `parts/websem`:doc:
 
-   * - Lundi 24 sept.
-     - 10h-12h
-     - PAC
-     - `parts/websem`:doc: (suite)
+   * - Lundi 11 mars
+     - 14h-18h
+     - SF
+     - À DÉTERMINER
 
-   * - Mercredi 26 sept.
+   * - Lundi 18 mars
      - 14h-16h
      - SF
      - À DÉTERMINER
 
-   * - Lundi 1er oct.
-     - 10h-12h
+   * - Lundi 25 mars
+     - 14h-18h
      - SF
      - À DÉTERMINER
 
-   * - Lundi 8 oct.
-     - 10h-12h
-     - SF
-     - À DÉTERMINER
-
-   * - Lundi 15 oct.
-     - 10h-12h
-     - SF
-     - À DÉTERMINER
-
-   * - Mercredi 17 oct.
+   * - Lundi 1er avril
      - 14h-16h
-     - SF
-     - À DÉTERMINER
-
-   * - Lundi 22 oct.
-     - 10h-12h
      - \*
      - Examen
 
