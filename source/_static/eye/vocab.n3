@@ -1,6 +1,5 @@
 @prefix f: <http://example.org/family#> .
 @prefix mv: <http://example.org/meta-vocabulary#>.
-@prefix log: <http://www.w3.org/2000/10/swap/log#>.
 
 f:parent mv:inverseOf f:child .
 
