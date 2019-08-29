@@ -12,53 +12,78 @@ Introduction à l'IA
 
    parts/*
 
-Calendrier 2018-19
-------------------
+Calendrier 2019 (G6S4)
+----------------------
 
 .. list-table::
    :widths: 28 15 10 50
 
-   * - Lundi 4 fevr.
-     - 14h-16h
+   * - Lundi 2 sept.
+     - 16h-18h
      - PAC
      - `parts/intro`:doc:
 
-   * - Lundi 4 févr.
+   * - Mardi 3 sept.
      - 16h-18h
      - PAC
      - `parts/chemins`:doc:
 
-   * - Mercredi 6 févr.
-     - 10h-12h
+   * - Lundi 9 sept.
+     - 8h-10h
      - PAC
      - `parts/chemins`:doc: (suite)
 
-   * - Lundi 18 févr.
-     - 14h-18h
+   * - Mardi 10 sept.
+     - 16h-18h
      - PAC
      - `parts/prolog`:doc:
 
-   * - Jeudi 21 févr.
-     - 8h-12h
+   * - Lundi 16 sept.
+     - 16h-18h
+     - PAC
+     - `parts/prolog`:doc: (suite)
+
+   * - Mardi 17 sept.
+     - 16-18h
      - PAC
      - `parts/websem`:doc:
 
-   * - Lundi 11 mars
+   * - Lundi 23 sept.
+     - 16-18h
+     - PAC
+     - `parts/websem`:doc: (suite)
+
+   * - Mardi 24 sept.
      - 14h-18h
      - SF
      - À DÉTERMINER
 
-   * - Lundi 18 mars
-     - 14h-16h
+   * - Lundi 30 sept.
+     - 8h-10h
      - SF
      - À DÉTERMINER
 
-   * - Lundi 25 mars
-     - 14h-18h
+   * - Lundi 30 sept.
+     - 16h-18h
      - SF
      - À DÉTERMINER
 
-   * - Lundi 1er avril
+   * - Lundi 7 oct.
+     - 8h-10h
+     - SF
+     - À DÉTERMINER
+
+   * - Lundi 14 oct.
+     - 8h-10h
+     - SF
+     - À DÉTERMINER
+
+   * - Jeudi 17 oct.
+     - 8h-10h
+     - SF
+     - À DÉTERMINER
+
+   * - Lundi 21 oct.
      - 14h-16h
      - \*
      - Examen
