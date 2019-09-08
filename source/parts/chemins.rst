@@ -52,6 +52,9 @@ Plan de la deuxième séance
   - Implémentez la résolution des Tours de Hanoi (avec un nombre arbitraire de plateaux)
     en utilisant cette implémentation de A* : 
     https://forge.univ-lyon1.fr/PA.Champin/intro_ia_astar
+
+  - On considérera que le coût de chaque mouvement est proportionnel à la taille du plateau déplacé
+    (1 pour le plus petit, 2 pour le suivant, etc.).
     
 .. __: https://en.wikipedia.org/wiki/Fox,_goose_and_bag_of_beans_puzzle
 .. __: https://fr.wikipedia.org/wiki/Tours_de_Hano%C3%AF
