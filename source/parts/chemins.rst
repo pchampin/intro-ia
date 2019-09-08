@@ -46,6 +46,12 @@ Plan de la deuxième séance
   - `tours de Hanoi`__:
     `hanoi.xml <../_static/f123.xml>`_
     (Wikipedia `fait allusion`__ à l'espace d'états de ce problème)
+
+* À vous de jouer : 
+
+  - Implémentez la résolution des Tours de Hanoi (avec un nombre arbitraire de plateaux)
+    en utilisant cette implémentation de A* : 
+    https://forge.univ-lyon1.fr/PA.Champin/intro_ia_astar
     
 .. __: https://en.wikipedia.org/wiki/Fox,_goose_and_bag_of_beans_puzzle
 .. __: https://fr.wikipedia.org/wiki/Tours_de_Hano%C3%AF
